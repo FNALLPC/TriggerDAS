@@ -1,12 +1,15 @@
 ---
-title: "Lesson Design"
-redirect_to:
-- https://carpentries.github.io/curriculum-development/
-questions:
-- "How do we design lessons?"
-hidden: True
-
+title: "MET trigger efficiency"
+teaching: 30
+exercises: 0
+objectives:
+- "Learn how to access and play with the trigger objects in our data"
+- "Compute the efficiency of a specific HLT path"
+- "Inspecting its Level 1 (L1) seed"
 ---
 
-Visit our [new curriculum development guide](https://carpentries.github.io/curriculum-development/).
+The focus will be on some HLT paths used during the 2023 data-taking to select events with a certain amount of missing transverse energy `HLT_PFMET*`.
 
+
+
+{% include links.md %}

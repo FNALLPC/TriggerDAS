@@ -12,7 +12,7 @@ carpentry: "cp"
 # Overall title for pages.
 title: "CMSDAS Trigger Short Exercise 2026"
 year: 2026
-CMSSW: "CMSSW_10_6_31_patch1"
+CMSSW: "CMSSW_14_0_8"
 
 # Life cycle stage of the lesson
 # See this page for more details: https://cdh.carpentries.org/the-lesson-life-cycle.html
