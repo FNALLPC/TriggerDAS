@@ -8,6 +8,7 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 
 > ## Links 
 > * [CMSDAS at LPC2026](https://indico.cern.ch/e/cmsdas2026)
+> * [Trigger shortEx github repo](https://github.com/FNALLPC/TriggerDAS)
 {: .callout}
 
 > ## Prerequisites
@@ -15,7 +16,7 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 >  This is how to link setup [setup instructions]({{ page.root }}{% link setup.md %}).
 {: .prereq}
 
-## Facilitators CMSDAS LPC 2026
+## Facilitators CMSDAS LPC {{ site.year }}
  * Names () 
  * Names () 
  * Names () 
@@ -26,7 +27,7 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 Join the mattermost channel
 
 
-> ## How to update this page:
+> ## How to update this page (for facilitators):
 > * Edit files in `_episodes/XX-Lesson.md`
 > * Commit and push to the `gh-pages` branch
 > * See rendered page
