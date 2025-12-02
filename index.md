@@ -30,6 +30,7 @@ Join the mattermost channel
 > ## How to update this page (for facilitators):
 > * Edit files in `_episodes/XX-Lesson.md`
 > * Commit and push to the `gh-pages` branch
+> * Check progress via the "Action" tab 
 > * See rendered page
 > * [Example CMSDAS lessons](https://kakwok.github.io/MDS_CMSDAS/index.html)
 > * [Formatting reference](https://fnallpc.github.io/TriggerDAS/04-formatting/index.html#special-blockquotes)

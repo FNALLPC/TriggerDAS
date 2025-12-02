@@ -50,11 +50,11 @@ jupyter notebook --no-browser --port=8888 --ip 127.0.0.1
 ~~~
 {: .language-bash}
 
-> ### Remember
+> ## Remember
 > The port number `8888` needs to match the port number you log-in to `cmslpc`.
 > 
 > If someone has taken the `8888` port on the cmslpc node, you will need to use another one. 
-> {: .callout}
+{: .callout}
 
 If those two lines are running sucessfully, you should see something like this:
 ~~~
